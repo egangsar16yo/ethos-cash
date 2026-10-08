@@ -1,1 +1,12 @@
+{
+  "ads_enabled": false,
+  "banner_enabled": false,
+  "interstitial_enabled": false,
+  "rewarded_enabled": false,
+  "app_open_enabled": false,
+  "banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+  "app_open_id": "ca-app-pub-3940256099942544/9257395921"
+}
 
